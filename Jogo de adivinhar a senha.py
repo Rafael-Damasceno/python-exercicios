@@ -1,7 +1,4 @@
 from random import randint
-#atividade de funções
-#aluno: Daniel Pedro Santos Brito
-#data: 27/07/2022
 l1 = []
 l2 = []
 palpite = 0 # contador de tentativas
