@@ -1,6 +1,3 @@
-#atividade de funções
-#aluno: Daniel Pedro Santos Brito
-#data: 27/07/2022
 lista = []
 lista2 = [9, 5, 2, 1, 8]
 def Separa_Digitos(numero):
